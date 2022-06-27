@@ -7,3 +7,9 @@ As with the daily weather data, this data comes from a weather station located i
 
 # COOL DAYS :
 <img align="left" alt="GIF" src="https://github.com/pranavrushi/Weather_data_clustering/blob/main/cool.jpg" width="408" height="318" />
+
+# DRY DAYS :
+<img align="left" alt="GIF" src="https://github.com/pranavrushi/Weather_data_clustering/blob/main/dry.jpg" width="408" height="318" />
+
+# WARM DAYS :
+<img align="left" alt="GIF" src="https://github.com/pranavrushi/Weather_data_clustering/blob/main/warm.jpg" width="408" height="318" />
